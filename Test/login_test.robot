@@ -11,3 +11,6 @@ test 2
 
 test 3
 	Log   Anand
+
+test 3
+	Fail    Error
