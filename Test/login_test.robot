@@ -5,3 +5,6 @@ Library           SeleniumLibrary
 Login Test
 	Log     test1
 	Log To Console    Anand
+
+test 2
+	Log    Kishan
