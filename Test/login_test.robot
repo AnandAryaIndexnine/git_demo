@@ -8,6 +8,3 @@ Login Test
 
 test 2
 	Log    Kishan
-
-Test 3
-	Fail    Error
