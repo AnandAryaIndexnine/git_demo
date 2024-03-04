@@ -9,5 +9,3 @@ Login Test
 test 2
 	Log    Kishan
 
-test 3
-	Log   test3
