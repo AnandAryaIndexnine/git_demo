@@ -9,3 +9,6 @@ Login Test
 test 2
 	Log    Kishan
 
+Test3
+	Log 	QAtesting
+
